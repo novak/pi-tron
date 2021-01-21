@@ -1,6 +1,6 @@
 # pi-tron
 
-Raspberry Pi emergency radio receiver based on the original [Plectron](https://en.wikipedia.org/wiki/Plectron) devices.
+Raspberry Pi emergency radio receiver inspired by the original [Plectron](https://en.wikipedia.org/wiki/Plectron) devices.
 
 ### Progress
 
