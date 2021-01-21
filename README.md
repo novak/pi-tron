@@ -1,4 +1,4 @@
-# ![pi-tron](https://raw.githubusercontent.com/novak/pi-tron/main/site/assets/pi-tron-logo-small.png) pi-tron
+# <img alt="logo" src="https://raw.githubusercontent.com/novak/pi-tron/main/site/assets/pi-tron-logo.svg" width="20%" />  pi-tron
 
 Raspberry Pi emergency radio receiver inspired by the original [Plectron](https://en.wikipedia.org/wiki/Plectron) devices.
 
